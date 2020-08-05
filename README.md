@@ -1,0 +1,2 @@
+# Image-classification-project
+## Image Detect challenge has 200 classes. Each class has 450 training images, 50 validation images, and 50 test images. We have released training, validation and test sets with images and annotations. We provide both class labels and bounding boxes as annotations; however, you are asked only to predict the class label of each image without localizing the objects. The test set has no labels.
